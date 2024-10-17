@@ -4,7 +4,7 @@
 
 This project focuses on comparing the trends and allocations of federal funding for elementary education and postsecondary education in the United States from 2000 to 2022. The goal of the analysis is to highlight the differences in how federal funds are distributed to these two key educational sectors and explore how this distribution has evolved over time.
 
-Federal funding plays a crucial role in shaping educational opportunities, resources, and programs. By analyzing historical data, we can better understand how the U.S. government prioritizes spending across different educational levels and programs, as well as the impact of emergency funding measures in times of crisis, such as the pandemic.
+Federal funding plays a crucial role in shaping educational opportunities, resources, and programs. By analyzing historical data, we can better understand how the U.S. government prioritizes spending across different educational levels and programs, as well as the impact of emergency funding measures in times of crisis, such as the pandemic. [Created by Caroline Porche]
 
 ## Research Focus
 
