@@ -22,7 +22,7 @@ This project includes various visualizations to help illustrate:
 
 ## Conclusions
 
-- **Elementary Education**: While funding has shown steady growth over the years, there have been significant increases during periods of economic recovery and crisis. The COVID-19 pandemic, in particular, resulted in massive injections of federal funds aimed at supporting schools through unprecedented challenges.
+- **Elementary Education**: While funding has shown steady growth over the years, there have been significant increases during periods of economic recovery and crisis (2021 and 2022)
 - **Postsecondary Education**: Federal funding for higher education, particularly through financial aid and loan programs, has grown significantly over the past two decades. The introduction of the Post-9/11 GI Bill and pandemic relief measures further boosted support for students seeking higher education.
 
 ## Future Directions
